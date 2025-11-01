@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("Calendar/Tasks")
+        - scheduled == today()
+        - status.containsAny("in-progress", "open")
+    order:
+      - file.name
+      - scheduled
+      - priority
+      - status
+    sort:
+      - property: status
+        direction: DESC
+    columnSize:
+      note.scheduled: 144

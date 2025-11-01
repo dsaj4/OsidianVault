@@ -1,0 +1,457 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "595f48508815448c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22110989afc3c66e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Calendar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Calendar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Calendar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2025-11-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-01"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "dimension": 68.92583120204604,
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "83534330337bfba7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f0c826e4d3eff55",
+        "type": "tabs",
+        "dimension": 31.074168797953966,
+        "children": [
+          {
+            "id": "2c16371d998d5011",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5026054382324
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 77.70345596432553,
+        "children": [
+          {
+            "id": "ecdb0a392a024342",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/2025-11-01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-11-01 的大纲"
+            }
+          },
+          {
+            "id": "d2216240af9314f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tasknotes-pomodoro-stats-view",
+              "state": {},
+              "icon": "bar-chart",
+              "title": "番茄钟统计"
+            }
+          },
+          {
+            "id": "ac5a69eeb8e94917",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "clock",
+              "title": "番茄钟"
+            }
+          },
+          {
+            "id": "ee8cbb391c7d565f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tasknotes-agenda-view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "议程"
+            }
+          },
+          {
+            "id": "439e3e2fd2e9435e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "8e15cd93a6a4be64",
+        "type": "tabs",
+        "dimension": 22.296544035674472,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/2025-11-01.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "2025-11-01 的反向链接列表"
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Efforts/创业/AI想法梳理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "AI想法梳理 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "cmdr:Toggle stacked tabs": false,
+      "media-extended:Open external media": false,
+      "obsidian-memos:Thino": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "quickadd:QuickAdd": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "net-clip:NetClip": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false
+    }
+  },
+  "active": "22110989afc3c66e",
+  "lastOpenFiles": [
+    "Atlas/Maps/Calendar.md",
+    "Calendar/2025-11-01.md",
+    "x/Templates/Diary.md",
+    "Atlas/Dots/Things/The Four Intensities of Efforts.md",
+    "Atlas/Dots/Things/The Id.md",
+    "Atlas/Dots/Things/Understanding the habit cycle and habitual cues.md",
+    "Atlas/Dots/Things/You are what you eat.md",
+    "Atlas/Dots/Things/Some Greek Allusions.md",
+    "Atlas/Maps/Habits Map.md",
+    "Atlas/Maps/Language MOC.md",
+    "Atlas/Maps/Meta PKM.md",
+    "Atlas/Dots/Things",
+    "Atlas/Maps",
+    "Atlas/Dots",
+    "Atlas",
+    "Resources/books/破惘.md",
+    "Resources/books/杀闷思维.md",
+    "Resources/books/哲道行者.md",
+    "Resources/books/世界是如何思考的：一部哲学全球通史.md",
+    "Resources/books/不哭不哭，痛痛飞走吧.md",
+    "Efforts/计算机/计算机.md",
+    "Efforts/计算机/未命名.md",
+    "Efforts/计算机/Web开发基本知识.md",
+    "Efforts/计算机/Web 开发术语.md",
+    "Efforts/计算机/Python 路线图.md",
+    "Efforts/计算机/Python OOP.md",
+    "Efforts/计算机/folo项目迁移.md",
+    "Efforts/计算机/folo项目结构解析.md",
+    "Efforts/计算机/Enable Trace 项目学习指南.md",
+    "Efforts/经济/经济.md",
+    "Efforts/计算机",
+    "Efforts/经济",
+    "Efforts/申请",
+    "Efforts/思与记",
+    "Efforts/Efforts.base",
+    "Efforts/实习",
+    "Function/Home.canvas",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/cover.jpeg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00014.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00012.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00013.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00006.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00008.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00011.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00009.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00010.jpg",
+    "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00002.jpg",
+    "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
+    "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
+    "Atlas/Utilities/Canvases/LYT W11 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/Obsidian Canvas MOC.canvas",
+    "Atlas/Utilities/Canvases/Ship of the Sensemaker.canvas",
+    "Atlas/Utilities/Canvases/LYT 2023 Rules.canvas",
+    "Atlas/Utilities/Canvases/LYT Book Framing.canvas",
+    "Atlas/Utilities/Canvases/LYT Nick Weekly Schedule.canvas"
+  ]
+}

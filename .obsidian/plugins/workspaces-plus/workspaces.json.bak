@@ -1,0 +1,746 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "c4f7fdb608baf8e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "0b3085712ef39795",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ed620ff772ae2275",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Home"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "440b3841429709ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b208c03cadd231ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dddbab8b18fd423a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "77966b04a7f238ed",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 296.5026054382324
+      },
+      "right": {
+        "id": "7a43a6c530e72e44",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea89fdbc5439f479",
+            "type": "tabs",
+            "dimension": 62.64916467780429,
+            "children": [
+              {
+                "id": "2ca57d6199b2f8d5",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Home.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Home"
+                }
+              },
+              {
+                "id": "1dc0cb1cebc39098",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "4f6e4ddebde66a86",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "90d026528dc7103b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Home.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Home"
+                }
+              },
+              {
+                "id": "ecdb0a392a024342",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8e15cd93a6a4be64",
+            "type": "tabs",
+            "dimension": 37.3508353221957,
+            "children": [
+              {
+                "id": "d535bd36dbc98e0b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Home"
+                }
+              },
+              {
+                "id": "ae0aed29d208c352",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 252.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "daily-notes:Open today's daily note": false,
+          "publish:Publish changes...": false,
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "templates:Insert template": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "workspaces:Manage workspace layouts": false,
+          "periodic-notes:Open today's daily note": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "cmdr:Toggle stacked tabs": false,
+          "obsidian42-brat:BRAT": false
+        }
+      },
+      "active": "dddbab8b18fd423a",
+      "mtime": "2025-01-04T05:34:14-06:00"
+    },
+    "Test": {
+      "main": {
+        "id": "c4f7fdb608baf8e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "b1002e567b6bfac8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d2216240af9314f9",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tasknotes-pomodoro-stats-view",
+                  "state": {},
+                  "icon": "bar-chart",
+                  "title": "Pomodoro stats"
+                }
+              }
+            ],
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "440b3841429709ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b208c03cadd231ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dddbab8b18fd423a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "77966b04a7f238ed",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 296.5026054382324
+      },
+      "right": {
+        "id": "7a43a6c530e72e44",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea89fdbc5439f479",
+            "type": "tabs",
+            "dimension": 85.19615099925981,
+            "children": [
+              {
+                "id": "2ca57d6199b2f8d5",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Atlas/Maps/Habits Map.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "Habits Map的笔记属性"
+                }
+              },
+              {
+                "id": "ed620ff772ae2275",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    },
+                    {
+                      "title": "Defining a habit",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Dots/Things/Defining a habit.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Defining a habit\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                    },
+                    {
+                      "title": "Habits Map",
+                      "icon": "lucide-file",
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Habits Map.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Habits Map\"}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":18},\"to\":{\"line\":15,\"ch\":18}},\"scroll\":0}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Atlas/Maps/Habits Map.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Habits Map"
+                }
+              },
+              {
+                "id": "4f6e4ddebde66a86",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "90d026528dc7103b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Atlas/Maps/Habits Map.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Habits Map 的大纲"
+                }
+              },
+              {
+                "id": "ecdb0a392a024342",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "添加笔记属性"
+                }
+              },
+              {
+                "id": "ee8cbb391c7d565f",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tasknotes-agenda-view",
+                  "state": {},
+                  "icon": "calendar-clock",
+                  "title": "Agenda"
+                }
+              },
+              {
+                "id": "ac5a69eeb8e94917",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tasknotes-pomodoro-view",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Pomodoro"
+                }
+              },
+              {
+                "id": "7deb3250326e5c21",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tasknotes-advanced-calendar-view",
+                  "state": {},
+                  "icon": "calendar-range",
+                  "title": "Advanced Calendar"
+                }
+              },
+              {
+                "id": "dcfb17326b9771b4",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tasknotes-notes-view",
+                  "state": {},
+                  "icon": "file-text",
+                  "title": "Notes"
+                }
+              },
+              {
+                "id": "307c488d544a2433",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tasknotes-mini-calendar-view",
+                  "state": {},
+                  "icon": "calendar-days",
+                  "title": "Mini Calendar"
+                }
+              }
+            ],
+            "currentTab": 6
+          },
+          {
+            "id": "8e15cd93a6a4be64",
+            "type": "tabs",
+            "dimension": 14.803849000740193,
+            "children": [
+              {
+                "id": "d535bd36dbc98e0b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Atlas/Maps/Habits Map.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Habits Map 的反向链接列表"
+                }
+              },
+              {
+                "id": "ae0aed29d208c352",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 908.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:创建新数据库": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "publish:发布更改": false,
+          "periodic-notes:Open today's daily note": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian42-brat:BRAT": false,
+          "tasknotes:Open mini calendar": false,
+          "tasknotes:Open advanced calendar": false,
+          "tasknotes:Open task list": false,
+          "tasknotes:Open notes": false,
+          "tasknotes:Open agenda": false,
+          "tasknotes:Open kanban board": false,
+          "tasknotes:Open pomodoro": false,
+          "tasknotes:Open pomodoro stats": false,
+          "tasknotes:Create new task": false,
+          "cmdr:Toggle stacked tabs": false
+        }
+      },
+      "active": "d2216240af9314f9",
+      "mtime": "2025-09-17T12:40:25+08:00"
+    }
+  },
+  "active": "Test"
+}

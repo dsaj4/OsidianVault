@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("Efforts")
+        - file.ctime >= now()-'1w'
+        - file.name != "Efforts.base"
+    sort: []

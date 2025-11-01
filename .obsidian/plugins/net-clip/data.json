@@ -1,0 +1,119 @@
+{
+  "viewPosition": "default",
+  "defaultFolderName": "NetClip",
+  "parentFolderPath": "",
+  "defaultWebUrl": "https://google.com",
+  "searchEngine": "google",
+  "geminiModel": "gemini-2.5-flash-lite",
+  "categories": [
+    "Articles",
+    "Research",
+    "Tech"
+  ],
+  "categoryIcons": {},
+  "enableCorsProxy": false,
+  "adBlock": {
+    "enabled": true
+  },
+  "privateMode": false,
+  "geminiApiKey": "AIzaSyC7YKZpXoi8n6OVrDqw9zS_lgt41-4HLAU",
+  "enableAI": true,
+  "prompts": [
+    {
+      "name": "Translate Content",
+      "prompt": "Translate the following ${article} to ${target_lang}",
+      "enabled": true,
+      "variables": {
+        "target_lang": [
+          "Chinese"
+        ]
+      }
+    },
+    {
+      "name": "Summarize Content",
+      "prompt": "Summarize ${article} in ${style} style. Keep the summary ${length}.",
+      "enabled": true,
+      "variables": {
+        "style": [
+          "academic"
+        ],
+        "length": [
+          "medium (1 paragraph)"
+        ]
+      }
+    },
+    {
+      "name": "Format as Note",
+      "prompt": "Convert ${article} into a structured note with headings, bullet points, and key takeaways. Use ${format} formatting style.",
+      "enabled": true,
+      "variables": {
+        "format": [
+          "Study Notes"
+        ]
+      }
+    }
+  ],
+  "defaultSaveLocations": {
+    "defaultLocation": "",
+    "domainMappings": {}
+  },
+  "cardDisplay": {
+    "showDescription": true,
+    "showAuthor": true,
+    "showDate": true,
+    "showDomain": true,
+    "showThumbnail": true
+  },
+  "replaceTabHome": true,
+  "shortcuts": [
+    {
+      "id": "1760926014226",
+      "name": "",
+      "url": "https://github.com/Elhary/Obsidian-NetClip",
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=128"
+    },
+    {
+      "id": "1760926014226",
+      "name": "",
+      "url": "https://youtube.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128"
+    },
+    {
+      "id": "1760926014226",
+      "name": "",
+      "url": "https://www.reddit.com/r/ObsidianMD/",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
+    },
+    {
+      "id": "1760926014226",
+      "name": "",
+      "url": "https://forum.obsidian.md/",
+      "favicon": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=128"
+    },
+    {
+      "id": "1760929050599",
+      "name": "",
+      "url": "https://syft.ai/following"
+    },
+    {
+      "id": "1760929134485",
+      "name": "",
+      "url": "https://www.google.com"
+    },
+    {
+      "id": "1761038839270",
+      "name": "",
+      "url": "https://gemini.google.com/"
+    }
+  ],
+  "showClock": true,
+  "homeTab": {
+    "showRecentFiles": true,
+    "showSavedArticles": true,
+    "backgroundImage": "",
+    "backgroundBlur": 0,
+    "textColor": "#ffffff",
+    "textBrightness": 100
+  },
+  "keepOriginalContent": false
+}
