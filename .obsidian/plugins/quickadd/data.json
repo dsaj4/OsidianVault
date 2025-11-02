@@ -4,7 +4,7 @@
       "id": "24778b9b-0e8c-47ce-bf5e-6e1f5ff08311",
       "name": "任务自动更新",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "runOnStartup": true,
       "macro": {
         "name": "任务自动更新",
@@ -15,26 +15,6 @@
             "type": "UserScript",
             "id": "fe949ccf-1dbf-4223-b20d-5b7e0a4d8316",
             "path": "x/Scripts/Update Scheduled Tasks.js",
-            "settings": {}
-          }
-        ]
-      }
-    },
-    {
-      "id": "6902c549-1082-45e6-9c4d-c0a9c0d26d26",
-      "name": "追踪时间编辑",
-      "type": "Macro",
-      "command": true,
-      "runOnStartup": false,
-      "macro": {
-        "name": "追踪时间编辑",
-        "id": "748920a3-ba00-4af0-8dd2-304bf09f17d0",
-        "commands": [
-          {
-            "name": "Time Entries Manager",
-            "type": "UserScript",
-            "id": "ca51ca8d-4900-4d79-9ca8-91a821e07895",
-            "path": "x/Scripts/Time Entries Manager.js",
             "settings": {}
           }
         ]

@@ -1,9 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Efforts")
+    - file.ctime >= now()-'1w'
+    - file.name != "Efforts.base"
+formulas:
+  Time: file.ctime.format("MM-DD ")
 views:
-  - type: table
-    name: 表格
-    filters:
-      and:
-        - file.inFolder("Efforts")
-        - file.ctime >= now()-'1w'
-        - file.name != "Efforts.base"
-    sort: []
+  - type: cards
+    name: 视图
+    order:
+      - file.name
+      - formula.Time

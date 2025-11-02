@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.inFolder("Calendar/Tasks")
+    - file.hasTag("czl", "yq", "zly", "ssn")
+    - scheduled >= today()
+formulas:
+  未命名: ""
+  未命名 2: if(file.hasTag("czl"), "陈政霖", if(file.hasTag("yq"), "杨强", if(file.hasTag("ssn"), "石盛楠", if(file.hasTag("zly"), "张琳雅", ""))))
+  未命名 3: if(file.hasTag("czl"), "陈政霖", if(file.hasTag("yq"), "杨强", if(file.hasTag("ssn"), "石盛楠", if(file.hasTag("zly"), "张琳雅", ""))))
+properties:
+  formula.未命名 2:
+    displayName: 责任人
+  formula.未命名 3:
+    displayName: 责任人
+views:
+  - type: cards
+    name: 卡片
+    order:
+      - file.name
+      - formula.未命名 3
+    imageAspectRatio: 1.7
+    cardSize: 290

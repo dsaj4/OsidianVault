@@ -4,31 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "595f48508815448c",
+        "id": "2357a0fad0a187a5",
         "type": "tabs",
         "children": [
           {
-            "id": "22110989afc3c66e",
+            "id": "67a8a1ce44f4b911",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Calendar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/Calendar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Calendar\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2025-11-02",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-02.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-02\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.5827073317307692}"
+                },
+                {
+                  "title": "Diary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/Diary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Diary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-11-02",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-02.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-02\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Diary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/Diary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Diary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":5},\"to\":{\"line\":3,\"ch\":5}},\"scroll\":2.255639097744361}"
+                },
+                {
+                  "title": "2025-11-02",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-02.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-02\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-11-01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-01.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-01\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-11-02",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-02.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-02\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":5},\"to\":{\"line\":9,\"ch\":5}},\"scroll\":0}"
+                },
+                {
+                  "title": "Diary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/Diary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Diary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "Efforts",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Efforts/Efforts.base\",\"viewName\":\"表格\"},\"icon\":\"lucide-table\",\"title\":\"Efforts\"}",
+                  "eState": "{\"views\":{\"表格\":{\"scroll\":{\"top\":0,\"left\":0}},\"视图\":{\"scroll\":{\"top\":0}}}}"
+                },
+                {
+                  "title": "Diary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/Diary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Diary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":4.347130408653846}"
+                },
+                {
+                  "title": "Efforts",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Efforts/Efforts.base\",\"viewName\":\"表格\"},\"icon\":\"lucide-table\",\"title\":\"Efforts\"}",
+                  "eState": "{\"views\":{\"表格\":{\"scroll\":{\"top\":0,\"left\":0}}}}"
+                },
+                {
+                  "title": "Diary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/Diary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Diary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.419245793269231}"
+                },
+                {
+                  "title": "2025-11-01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-01.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-01\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":4.178861177884615}"
+                },
+                {
+                  "title": "11.1第一次讨论",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/meeting/11.1第一次讨论.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"11.1第一次讨论\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2025-11-01",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Calendar/2025-11-01.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-11-01\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":3.570529627687467}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2025-11-01.md",
+                "file": "Efforts/meeting/11.1第一次讨论.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +127,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-01"
+              "title": "11.1第一次讨论"
+            }
+          },
+          {
+            "id": "ed6af7257997994b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tasknotes-advanced-calendar-view",
+              "state": {},
+              "icon": "calendar-range",
+              "title": "高级日历"
             }
           }
         ],
@@ -59,7 +162,7 @@
       {
         "id": "b208c03cadd231ee",
         "type": "tabs",
-        "dimension": 68.92583120204604,
+        "dimension": 67.86155747836835,
         "children": [
           {
             "id": "dddbab8b18fd423a",
@@ -133,7 +236,7 @@
       {
         "id": "4f0c826e4d3eff55",
         "type": "tabs",
-        "dimension": 31.074168797953966,
+        "dimension": 32.138442521631646,
         "children": [
           {
             "id": "2c16371d998d5011",
@@ -207,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2025-11-01.md",
+                "file": "x/Templates/Diary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-11-01 的大纲"
+              "title": "Diary 的大纲"
             }
           },
           {
@@ -231,8 +334,8 @@
             "state": {
               "type": "tasknotes-pomodoro-stats-view",
               "state": {},
-              "icon": "bar-chart",
-              "title": "番茄钟统计"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-stats-view"
             }
           },
           {
@@ -250,8 +353,8 @@
             "state": {
               "type": "tasknotes-pomodoro-view",
               "state": {},
-              "icon": "clock",
-              "title": "番茄钟"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           },
           {
@@ -269,12 +372,12 @@
             "state": {
               "type": "tasknotes-agenda-view",
               "state": {},
-              "icon": "calendar-clock",
-              "title": "议程"
+              "icon": "lucide-ghost",
+              "title": "tasknotes-agenda-view"
             }
           },
           {
-            "id": "439e3e2fd2e9435e",
+            "id": "5b7e41e385967b48",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -286,6 +389,16 @@
               ]
             },
             "state": {
+              "type": "tasknotes-task-list-view",
+              "state": {},
+              "icon": "check-square",
+              "title": "任务"
+            }
+          },
+          {
+            "id": "063e73d653cb3dca",
+            "type": "leaf",
+            "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
@@ -295,6 +408,16 @@
               },
               "icon": "lucide-tags",
               "title": "标签"
+            }
+          },
+          {
+            "id": "5a20e7e5465a379a",
+            "type": "leaf",
+            "state": {
+              "type": "netClip_workspace_webview",
+              "state": {},
+              "icon": "globe",
+              "title": "Web View"
             }
           }
         ],
@@ -320,7 +443,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2025-11-01.md",
+                "file": "Efforts/meeting/11.1第一次讨论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -330,7 +453,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2025-11-01 的反向链接列表"
+              "title": "11.1第一次讨论 的反向链接列表"
             }
           },
           {
@@ -374,7 +497,6 @@
       "workspaces:管理工作区布局": false,
       "publish:发布更改": false,
       "cmdr:Toggle stacked tabs": false,
-      "media-extended:Open external media": false,
       "obsidian-memos:Thino": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
@@ -395,11 +517,30 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "22110989afc3c66e",
+  "active": "67a8a1ce44f4b911",
   "lastOpenFiles": [
-    "Atlas/Maps/Calendar.md",
-    "Calendar/2025-11-01.md",
+    "Calendar/2025-11-02.md",
     "x/Templates/Diary.md",
+    "Calendar/2025-11-01.md",
+    "Calendar/Tasks/“知识树”实践构建和基础确立.md",
+    "Efforts/meeting/11.1第一次讨论.md",
+    "Resources/books/杀闷思维.md",
+    "Efforts/Efforts.base",
+    "Personal/陈总/陈总任务.base",
+    "Milestone/个人阶段目标.base",
+    "Milestone/团队阶段目标.base",
+    "Calendar/Tasks/Untitled.md",
+    "Calendar/Tasks/知识树实践材料选取.md",
+    "x/Templates/Daily Tasks.base",
+    "Personal/张琳唯/张琳雅任务.base",
+    "Calendar/Tasks/APP竞品对比和潜在用户接触.md",
+    "Personal/杨强/杨强任务.base",
+    "Calendar/Tasks/前 1.0版本资料汇总.md",
+    "Calendar/Tasks/关注知识树技术思路，构建基本框架.md",
+    "Milestone",
+    "Personal/张琳唯",
+    "Personal/杨强",
+    "Atlas/Maps/Calendar.md",
     "Atlas/Dots/Things/The Four Intensities of Efforts.md",
     "Atlas/Dots/Things/The Id.md",
     "Atlas/Dots/Things/Understanding the habit cycle and habitual cues.md",
@@ -408,31 +549,12 @@
     "Atlas/Maps/Habits Map.md",
     "Atlas/Maps/Language MOC.md",
     "Atlas/Maps/Meta PKM.md",
-    "Atlas/Dots/Things",
-    "Atlas/Maps",
-    "Atlas/Dots",
-    "Atlas",
     "Resources/books/破惘.md",
-    "Resources/books/杀闷思维.md",
     "Resources/books/哲道行者.md",
     "Resources/books/世界是如何思考的：一部哲学全球通史.md",
     "Resources/books/不哭不哭，痛痛飞走吧.md",
     "Efforts/计算机/计算机.md",
     "Efforts/计算机/未命名.md",
-    "Efforts/计算机/Web开发基本知识.md",
-    "Efforts/计算机/Web 开发术语.md",
-    "Efforts/计算机/Python 路线图.md",
-    "Efforts/计算机/Python OOP.md",
-    "Efforts/计算机/folo项目迁移.md",
-    "Efforts/计算机/folo项目结构解析.md",
-    "Efforts/计算机/Enable Trace 项目学习指南.md",
-    "Efforts/经济/经济.md",
-    "Efforts/计算机",
-    "Efforts/经济",
-    "Efforts/申请",
-    "Efforts/思与记",
-    "Efforts/Efforts.base",
-    "Efforts/实习",
     "Function/Home.canvas",
     "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/cover.jpeg",
     "Atlas/Dots/Books/浪漫主义的根源 ([英]以赛亚·伯林 著 [著, 以赛亚·伯林]) (Z-Library)/images/00014.jpg",

@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("Calendar/Tasks")
+    - file.hasTag("team")
+    - scheduled >= today()
+views:
+  - type: cards
+    name: 卡片
+    order:
+      - file.name
+      - scheduled
+    cardSize: 530
