@@ -5,7 +5,7 @@
       "name": "任务自动更新",
       "type": "Macro",
       "command": false,
-      "runOnStartup": true,
+      "runOnStartup": false,
       "macro": {
         "name": "任务自动更新",
         "id": "f144d0a2-d02b-462e-93d7-5c7ae14f0865",
